@@ -1,2 +1,4 @@
 # Link-Logger
- A chrome extension that acts as a link collector
+ 
+A Chrome extension that collects links.
+It has a remove feature to remove all links
